@@ -1,0 +1,8 @@
+E:\Code\C井_work\更换指定文件夹图标\更换指定文件夹图标\更换指定文件夹图标\bin\Debug\更换指定文件夹图标.exe.config
+E:\Code\C井_work\更换指定文件夹图标\更换指定文件夹图标\更换指定文件夹图标\bin\Debug\更换指定文件夹图标.exe
+E:\Code\C井_work\更换指定文件夹图标\更换指定文件夹图标\更换指定文件夹图标\bin\Debug\更换指定文件夹图标.pdb
+E:\Code\C井_work\更换指定文件夹图标\更换指定文件夹图标\更换指定文件夹图标\obj\Debug\更换指定文件夹图标.Form1.resources
+E:\Code\C井_work\更换指定文件夹图标\更换指定文件夹图标\更换指定文件夹图标\obj\Debug\更换指定文件夹图标.Properties.Resources.resources
+E:\Code\C井_work\更换指定文件夹图标\更换指定文件夹图标\更换指定文件夹图标\obj\Debug\更换指定文件夹图标.csproj.GenerateResource.Cache
+E:\Code\C井_work\更换指定文件夹图标\更换指定文件夹图标\更换指定文件夹图标\obj\Debug\更换指定文件夹图标.exe
+E:\Code\C井_work\更换指定文件夹图标\更换指定文件夹图标\更换指定文件夹图标\obj\Debug\更换指定文件夹图标.pdb
